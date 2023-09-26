@@ -4,7 +4,7 @@
 .footer__title {
   margin-bottom: 1rem;
   font-size: 1.6rem;
-  font-family: var(--title-font);
+  font-family: var(--main-font);
 }
 .footer__icon {
   display: block;
